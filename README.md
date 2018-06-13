@@ -14,6 +14,9 @@ npm run dev
 # build electron application for production
 npm run build
 
+# bulid electron application for windows
+npm run build:win32
+
 # run unit tests
 npm test
 
